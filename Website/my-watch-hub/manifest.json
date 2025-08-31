@@ -1,0 +1,27 @@
+{
+    "name": "My-Watch-Hub",
+    "short_name": "MyWatchHub",
+    "start_url": "/Website/my-watch-hub/index.html",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/Website/my-watch-hub/assets/logo.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/Website/my-watch-hub/assets/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/Website/my-watch-hub/assets/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "#ffffff",
+    "theme_color": "#10141F",
+    "orientation": "portrait-primary"   ,
+     "scope": "/Website/my-watch-hub/"
+}
